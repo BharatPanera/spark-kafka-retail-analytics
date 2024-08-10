@@ -1,4 +1,4 @@
-# Real-Time Retail Analytics with Spark and Kafka
+# Real Time Retail Analytics with Spark and Kafka
 
 This project focuses on analyzing real-time sales data for an e-commerce company, RetailCorp Inc., using Apache Spark Streaming and Kafka.
 
